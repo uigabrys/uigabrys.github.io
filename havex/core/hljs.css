@@ -1,6 +1,6 @@
 :root {
-    --backgroundCode: #2f3136;
-    --backgroundName: #202225;
+    --backgroundCode: #1a1a1a;
+    --backgroundName: rgba(0, 0, 0, 0.2);
   }
   
   .markup_f8f345 pre {

@@ -3,8 +3,7 @@
 * @version 0.0.1
 * @description For when default discord just isn't dark enough, a theme for those who live a night
 * @author vvhsx
-* @source https://github.com/vvhsx.github.io/themes
-* @website https://betterdiscord.app/theme/Nocturnal
+* @source https://github.com/vvhsx/vvhsx.github.io/tree/main/havex
 */
 @import url("https://vvhsx.github.io/havex/core/havex.css");
 /*
@@ -23,14 +22,14 @@
 @import url("https://vvhsx.github.io/havex/core/custom-font.css");
 @import url("https://vvhsx.github.io/havex/core/RadialStatus.css");
 :root {
-  --backgroundColor01: #1e2731;
-  --backgroundColor02: #12171d;
-  --mainColor: #2275c9;
-  --gradientColor01: #00F260;
-  --gradientColor02: #0575E6;
+  --backgroundColor01: #161616;
+  --backgroundColor02: #0f0f0f;
+  --mainColor: #dd1d1d;
+  --gradientColor01: #ffc400;
+  --gradientColor02: #dd1d1d;;
 
   /* Better Hljs */
-  --backgroundCode: #1e2731;
+  --backgroundCode: #1a1a1a;
   --backgroundName: rgba(0, 0, 0, .2);
 
   /* Radial Status */
